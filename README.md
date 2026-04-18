@@ -79,19 +79,13 @@ Built using **Streamlit**, allowing users to:
 🛠️ Technologies Used
 
 Python
-
 Scikit-learn
-
 Streamlit
-
 Pandas & NumPy
-
 Matplotlib & Seaborn
-
 GitHub
 
 👨‍💻 Author
 
 MD Nahidul Islam Sakib
-
 Data Scientist & Machine Learning Enthusiast
